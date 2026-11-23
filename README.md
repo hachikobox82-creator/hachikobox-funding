@@ -1,4 +1,4 @@
-markdown
+
 # HachikoBox – AI Character Marketplace & Ethical Ecosystem
 
 **HachikoBox** ([hachikobox.com](https://hachikobox.com)) is an open, 100% live Progressive Web App (PWA) AI Character Marketplace built to empower creators, educators, businesses, and non-profits through interactive AI characters.
